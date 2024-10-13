@@ -7,14 +7,14 @@
 
 ## About Me
 
-- 🚀 Full Stack Sorcerer | JS Ninja | Cyberpunk Enthusiast
+- 🚀 Full Stack sorcery | JS alchemy | Cyberrunner
 - 🌌 Exploring the digital realm while pondering the Kardashev scale
-- 🎭 Balancing the duality of order and chaos in code
+- 🎭 Balancing the duality of order and chaos in logic
 
 ## Current Missions
 
-- 🌠 [Dreamcatcher](https://your-dreamcatcher-link.com): Dive into the subconscious
-- 🌊 [Deep Sea Mutiny](https://your-deep-sea-mutiny-link.com): Uncover the depths of creativity
+- 🌙 [Dreamcatcher](https://your-dreamcatcher-link.com): Dive into the subconscious
+- 🏴‍☠️ [Deep Sea Mutiny](https://your-deep-sea-mutiny-link.com): **REDACTED**
 
 ## Thought Transmissions
 
