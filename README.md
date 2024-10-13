@@ -3,7 +3,7 @@
 
 # The Code Rises 🦇
 
-> "It's not who I am underneath, but what I code that defines me." - Batman, probably
+> "It's not who I am underneath, but what I code that defines me."
 
 ## About Me
 
