@@ -1,6 +1,8 @@
-<!-- Dynamic GIF (You'll need to set this up separately) -->
-![Dynamic GIF](https://i.imgur.com/UsBNCWA.gif)
-    <img src="https://i.imgur.com/UsBNCWA.gif">
+<div align="center">
+    <img src="https://i.imgur.com/UsBNCWA.gif" alt="The Will to Act">
+</div>
+
+
 # The Code Rises 🦇
 
 > "It's not who I am underneath, but what I code that defines me."
