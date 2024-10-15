@@ -1,5 +1,5 @@
 <!-- Dynamic GIF (You'll need to set this up separately) -->
-![Dynamic GIF](https://your-gif-url-here.gif)
+![Dynamic GIF](https://i.imgur.com/UsBNCWA.gif)
 
 # The Code Rises 🦇
 
