@@ -15,8 +15,8 @@
 
 ## Current Missions
 
-- 🌙 [Dreamcatcher](https://your-dreamcatcher-link.com): Dive into the subconscious
-- 🏴‍☠️ [Deep Sea Mutiny](https://your-deep-sea-mutiny-link.com): **REDACTED**
+- 🌙 [Dreamcatcher](https://dreamcatcher-ai.vercel.app/): Dive into the subconscious
+- 🏴‍☠️ [Deep Sea Mutiny](https://therealadil.com): **REDACTED**
 
 ## Thought Transmissions
 
