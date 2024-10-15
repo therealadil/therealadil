@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.imgur.com/UsBNCWA.gif" alt="The Will to Act">
+    <img src="https://s1.gifyu.com/images/SBDPd.gif" alt="The Will to Act">
 </div>
 
 
