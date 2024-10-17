@@ -61,5 +61,5 @@ function contemplateExistence() {
 </p>
 
 <p align="center">
-  Connect and let's build the future... or uncover ancient secrets. Whichever comes first.
+  Connect and let's build the future....
 </p>
