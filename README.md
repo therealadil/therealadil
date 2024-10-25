@@ -37,6 +37,10 @@ function contemplateExistence() {
 }
 ```
 
+## The Underworld
+![Codewars](https://www.codewars.com/users/therealadil/badges/large)
+
+
 ## The Signal
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=therealadil&show_icons=true&theme=dark)
