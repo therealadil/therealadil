@@ -1,8 +1,3 @@
-<div align="center">
-    <img src="https://s1.gifyu.com/images/SBDPd.gif" alt="The Will to Act">
-</div>
-
-
 # The Code Rises 🦇
 
 > "It's not who I am underneath, but what I code that defines me."
